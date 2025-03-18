@@ -17,7 +17,8 @@ load_dotenv()
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 MEDIA_URL = '/media/'
-MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
+MEDIA_ROOT = os.path.join(BASE_DIR.parent, 'media')
+os.makedirs(MEDIA_ROOT, exist_ok=True)
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "your_mistral_key_here")
 DEFAULT_FILE_STORAGE = 'django.core.files.storage.FileSystemStorage'
 # Quick-start development settings - unsuitable for production
