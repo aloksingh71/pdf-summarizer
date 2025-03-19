@@ -7,7 +7,7 @@ This project fulfills the requirements of a one-page web application where users
 
 ## Demo Video
 
-[![Watch the video](https://raw.githubusercontent.com/aloksingh71/pdf-summarizer/main/Demo/pdf_Summarizer_demo.png)](https://raw.githubusercontent.com/aloksingh71/pdf-summarizer/main/Demo/pdf_Summarizer_demo.mp4)
+[![Watch the video](https://raw.githubusercontent.com/aloksingh71/pdf-summarizer/main/Demo/pdf_Summarizer_demo.png)](https://github.com/aloksingh71/pdf-summarizer/blob/main/Demo/pdf_Summarizer_demo.mp4)
 
 ## Features
 - **User Authentication**: Register and log in to manage your PDFs and summaries.
