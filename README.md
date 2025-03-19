@@ -5,11 +5,12 @@ A one-page web application that allows users to upload PDF files and generate AI
 ## Overview
 This project fulfills the requirements of a one-page web application where users input parameters (summary type, length) to retrieve AI-generated summaries of uploaded PDFs. It includes user authentication, data persistence, and bonus features like caching and question answering, demonstrating a robust and thoughtful approach to design and scalability.
 
-[## Demo Video
-
 ## Demo Video
 
 [![Watch the video](https://raw.githubusercontent.com/aloksingh71/pdf-summarizer/main/Demo/pdf_Summarizer_demo.png)](https://drive.google.com/file/d/14TipbAxktOg1gKfOsibaHXUeo0SuMnbp)
+
+[Watch the Demo Video](https://github.com/aloksingh71/pdf-summarizer/releases/download/v1.0/pdf_Summarizer_demo.mp4)
+
 
 ## Features
 - **User Authentication**: Register and log in to manage your PDFs and summaries.
